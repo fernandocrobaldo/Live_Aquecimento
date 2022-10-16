@@ -3,6 +3,5 @@ Meu segundo Arquivo
 Meu terceiro Arquivo
 
 
-Add linha localmente
 
 
